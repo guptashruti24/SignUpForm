@@ -77,6 +77,10 @@
         <div class="auto-style7">
             <asp:Button ID="Button1" OnClick="Button1_Click1" runat="server" Height="31px" Text="SIGN UP" Width="145px" />
         </div>
+        <div>
+
+            <asp:Label ID="MessageLabel" runat="server" Text=""></asp:Label>
+        </div>
     </form>
 </body>
 </html>
